@@ -4,12 +4,6 @@ import './App.css';
 import Login from './components/Login'
 
 class App extends React.Component {
-  constructor(props){
-    super(props);
-    this.state= {
-
-    } 
-  }
   render(){
     return (
       <div className="App">
